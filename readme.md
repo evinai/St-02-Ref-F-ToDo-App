@@ -1,0 +1,2 @@
+- Reference todo app training arditSulce Udemy
+- pip freeze > requirements.txt
